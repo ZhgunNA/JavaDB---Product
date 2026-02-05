@@ -1,4 +1,4 @@
-# Команда для создания БД в phpMyAdmin. Лично я использовал XAMPP.
+# Команда для создания БД в phpMyAdmin. Как коннектор лично я использовал XAMPP.
 
 CREATE DATABASE marketplace CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE marketplace;
